@@ -144,6 +144,7 @@ All resources for the Awesome Inc Web Developer Bootcamp
 ### CSS
 
 - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [CSS Selector Game](https://flukeout.github.io/#)
 - []()
 - []()
 - []()
@@ -187,6 +188,6 @@ All resources for the Awesome Inc Web Developer Bootcamp
 
 ## More Questions?
 
-- [Stack Overflow (just one place to ask questions)](https://stackoverflow.com/)
+- [Stack Overflow (just one place out of many many places online to ask questions)](https://stackoverflow.com/)
 - [How to ask coding questions](https://www.propublica.org/nerds/how-to-ask-programming-questions)
 - []()
