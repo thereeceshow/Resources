@@ -42,6 +42,7 @@ All resources for the Awesome Inc Web Developer Bootcamp
 - [GitHub Best Practices](https://resources.github.com/videos/github-best-practices/)
 - [GitHub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Visualize Git Branching](https://learngitbranching.js.org/)
+- [What is a Pull Request?](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
 - [How to create a PR](https://hackernoon.com/how-to-git-pr-from-the-command-line-a5b204a57ab1)
 - [Git rebase](https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c)
 - [.gitignore creator](https://gitignore.io/)
@@ -71,6 +72,10 @@ All resources for the Awesome Inc Web Developer Bootcamp
 
 - [Learning GitHub Pages](https://lab.github.com/githubtraining/github-pages)
 - [How to Modify Jekyll with CSS and HTML](https://help.github.com/en/articles/customizing-css-and-html-in-your-jekyll-theme)
+- [How To Stick With A Blog](https://www.freecodecamp.org/news/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf/)
+- [Best Blogs to Read on Web Development](https://usersnap.com/blog/12-best-web-development-blogs-reading-right-now/)
+- [Blog Design Examples](https://bloggingpro.com/archives/2017/07/20/5-best-blog-design-examples-inspiration/)
+- [Blog Template Ideas](https://colorlib.com/wp/blog-website-templates/)
 - []()
   <!-- - [Everyones Blogs](https://github.com/bootcamp-s19/Resources/blob/master/everyones_blogs.md) -->
   <!-- - [Blog Questions](https://github.com/bootcamp-s19/Resources/blob/master/Blog_Questions.md) -->
@@ -88,6 +93,27 @@ All resources for the Awesome Inc Web Developer Bootcamp
 
 ## Learn the software stack
 
+### Laravel
+
+- [Laravel 6 Documentation](https://laravel.com/docs/6.x)
+- []()
+- [Run Laravel on Google App Engine](https://cloud.google.com/community/tutorials/run-laravel-on-appengine-standard)
+- []()
+
+### PHP
+
+- [PHP Documentation](https://www.php.net/manual/en/intro-whatis.php)
+- []()
+- []()
+- []()
+
+### React.js
+
+- [React.JS Documentation](https://reactjs.org/docs/getting-started.html)
+- []()
+- []()
+- []()
+
 <!-- ### Vue.js
 
 - [learn Vue.js](https://www.vuemastery.com/)
@@ -95,25 +121,6 @@ All resources for the Awesome Inc Web Developer Bootcamp
 - [Vue instance](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
 - [Vue.js Documentation](https://vuejs.org/v2/guide/) -->
 
-### Laravel
-
-- []()
-- []()
-- [Run Laravel on Google App Engine](https://cloud.google.com/community/tutorials/run-laravel-on-appengine-standard)
-- []()
-
-### PHP
-
-- []()
-- []()
-- []()
-- []()
-
-### React.js
-
-- []()
-- []()
-- []()
 - []()
 
 ### JS
@@ -136,9 +143,12 @@ All resources for the Awesome Inc Web Developer Bootcamp
 ### Bootstrap
 
 - [Bootstrap 4 Documentation](https://getbootstrap.com/)
-- [Bootstrap Theme Generator](https://themestr.app/theme)
 - [Card Flip](https://mdbootstrap.com/plugins/jquery/card-animations/)
 - [20 Bootstrap Resources](https://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers/)
+- [Vertical Align(take note of the extending css - top right)](https://www.codeply.com/go/fFqaDe5Oey)
+- [Bootstrap hide element](https://getbootstrap.com/docs/4.0/utilities/display/#hiding-elements)
+- [themestr.app](https://themestr.app/theme)
+- [bootstrap.build](https://bootstrap.build/)
 - []()
 
 ### CSS
@@ -157,28 +167,49 @@ All resources for the Awesome Inc Web Developer Bootcamp
 - []()
 - [Alternatives to the div tag](https://medium.com/web-dev-basics/7-alternatives-to-the-div-html-tag-7c888c7b5036)
 
+---
+
 ## Videos, Articles, and 'other' Resources
+
+### General Links
+
+### CMS & Design
+
+- [Google Fonts](https://fonts.google.com/)
+- [Content Creation Tips](https://blog.hubspot.com/marketing/content-creation)
+- [Content Creation Process](https://www.postmm.com/web-design/content-marketing/content-creation-process)
+
+### Videos
+
+- [VSCode Extentions (1)](https://youtu.be/rH1RTwaAeGc)
+- [VSCode Extentions (2)](https://youtu.be/u21W_tfPVrY)
+- [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
+- [History Of Javascript](https://fireship.io/courses/javascript/intro-history/)
+- [How JS works](https://fireship.io/courses/javascript/intro-how-js-works/)
+
+### Articles
 
 - [Why Learning to Code is Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
 - [Luke Murray's Blog - How To Learn Better](http://lukecmurray.tumblr.com/post/150290375977/how-to-learn-better-my-advice-after-26-years-in)
 - [How Discovery will make your Software Development Project a Success](https://www.alphalogicinc.com/blog/how-discovery-will-make-your-software-development-project-a-success/)
-- [Google Fonts](https://fonts.google.com/)
-- [Learn anything in 20 hours](https://lifehacker.com/learn-anything-in-20-hours-with-this-four-step-method-509281792)
-- [10,000 Hours (Outliers - book) ](<https://en.wikipedia.org/wiki/Outliers_(book)>)
-- [VSCode Extentions (1)](https://youtu.be/rH1RTwaAeGc)
-- [VSCode Extentions (2)](https://youtu.be/u21W_tfPVrY)
-- [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
-- [bulk image resizing](https://www.birme.net/?target_width=600&target_height=468)
-- [reroute keyboard keys](https://pqrs.org/osx/karabiner/)
-- [CatHacks](http://cathacks.cs.uky.edu/)
-- [Blockly](https://developers.google.com/blockly/)
-- [2D Breakout JS game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
-- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-- [Learn to code with me podcast](https://learntocodewith.me/podcast/)
-- [Regex Crossword](https://regexcrossword.com/)
-- [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
-- [5 elements of a modern website](https://www.bluleadz.com/blog/bid/68850/5-elements-of-a-modern-website-design)
-- []()
+
+* [Learn anything in 20 hours](https://lifehacker.com/learn-anything-in-20-hours-with-this-four-step-method-509281792)
+* [10,000 Hours (Outliers - book) ](<https://en.wikipedia.org/wiki/Outliers_(book)>)
+* [page speed insights](https://developers.google.com/speed/pagespeed/insights/)
+* [bulk image resizing](https://www.birme.net/?target_width=600&target_height=468)
+* [reroute keyboard keys](https://pqrs.org/osx/karabiner/)
+* [CatHacks](http://cathacks.cs.uky.edu/)
+* [Blockly](https://developers.google.com/blockly/)
+* [2D Breakout JS game](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript)
+* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+* [Learn to code with me podcast](https://learntocodewith.me/podcast/)
+* [Regex Crossword](https://regexcrossword.com/)
+* [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+* [5 elements of a modern website](https://www.bluleadz.com/blog/bid/68850/5-elements-of-a-modern-website-design)
+* [W3 schools local storage](https://www.w3schools.com/html/html5_webstorage.asp)
+* [JavaScript Transitions](https://css-tricks.com/controlling-css-animations-transitions-javascript/)
+* [Wiki page about SPA](https://en.wikipedia.org/wiki/Single-page_application)
+* []()
 
 ## General Stuff
 
