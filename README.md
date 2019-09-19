@@ -53,6 +53,7 @@ All resources for the Awesome Inc Web Developer Bootcamp
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Markdown Best Practices](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+- [README.md Best Practices](https://github.com/jehna/readme-best-practices)
 - []()
 
 ## Scrum / Agile
@@ -155,7 +156,7 @@ All resources for the Awesome Inc Web Developer Bootcamp
 
 - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [CSS Selector Game](https://flukeout.github.io/#)
-- []()
+- [Media Queries](https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints/)
 - []()
 - []()
 
