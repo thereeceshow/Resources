@@ -1,4 +1,4 @@
-This page now exists on the [Wiki](https://github.com/bootcamp-students/Projects-Exercises/wiki/Resources)
+The comprehensive list of resources exists on the [Wiki](https://github.com/bootcamp-students/Projects-Exercises/wiki/Projects), this repo is for code, images, odd files, and other examples.
 <!-- 
 
 # Resources
@@ -227,4 +227,6 @@ All resources for the Awesome Inc Web Developer Bootcamp
 * [Stack Overflow (just one place out of many many places online to ask questions)](https://stackoverflow.com/)
 * [How to ask coding questions](https://www.propublica.org/nerds/how-to-ask-programming-questions)
 * []()
+
  -->
+
