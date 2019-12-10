@@ -1,4 +1,4 @@
-The comprehensive list of resources exists on the [Wiki](https://github.com/bootcamp-students/Projects-Exercises/wiki/Projects), this repo is for code, images, odd files, and other examples.
+The comprehensive list of resources exists on the [Wiki](https://github.com/bootcamp-students/Resources/wiki), this repo is for code, images, odd files, and other examples.
 <!-- 
 
 # Resources
