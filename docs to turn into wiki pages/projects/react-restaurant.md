@@ -10,20 +10,22 @@ The owners are still working on their recipes. They've populated an API with pos
 
 <!--ts-->
 
-- [Project/Exercise Name](#Project-Exercise-Name)
-- [Description](#Description)
-- [Table of Contents](#table-of-contents)
-- [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
-  - [Tech Stack](#Tech-Stack)
-- [Process](#process)
-  - [Setup](#Setup)
-  - [Develop](#Develop)
-  - [Deploy](#Deploy)
-- [Requirements](#Requirements)
-  - [Additional Requirements](#Additional-Requirements)
-  - [Stretch Goals](#Stretch-Goals)
-- [Additional Resources](#Additional-Resources)
+- [Restaurant Website](#restaurant-website)
+		- [Description](#description)
+		- [Table of contents](#table-of-contents)
+		- [MVP](#mvp)
+			- [Wireframe](#wireframe)
+			- [Tech Stack](#tech-stack)
+		- [Process](#process)
+					- [Setup:](#setup)
+					- [Develop:](#develop)
+					- [Deploy:](#deploy)
+		- [Requirements](#requirements)
+			- [Additional Requirements](#additional-requirements)
+			- [Stretch Goals](#stretch-goals)
+			- [Recommended NPM Installs](#recommended-npm-installs)
+			- [If you finish early...](#if-you-finish-early)
+		- [Additional Resources](#additional-resources)
   <!--te-->
 
 ### MVP
