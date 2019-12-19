@@ -4,7 +4,7 @@
 
 Create a website that clones an already existing app
 
-For this project we will be using React.js to create components on the front end, and Laravel to create a RESTful API to store data and facilitate pretty url handling.
+For this project we will be using React to create components on the front end, and Laravel to create a RESTful API to store data and facilitate pretty url handling.
 
 
 
@@ -13,28 +13,28 @@ This project is testing your ability to take a vertical slice of a project. Deco
 ### Table of contents
 
 <!--ts-->
-* [Project/Exercise Name](#Attack-of-the-Clones)
-* [Description](#Description)
-* [Table of Contents](#table-of-contents)
-* [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
-  - [Tech Stack](#Tech-Stack)
-* [Process](#process)
-  - [Setup](#Setup)
-  - [Application File Structure](#Application-File-Structure)
-  - [Develop](#Develop)
-  - [Deploy](#Deploy)
-* [Requirements](#Requirements)
-  - [Additional Requirements](#Additional-Requirements)
-  - [Stretch Goals](#Stretch-Goals)
-* [Additional Resources](#Additional-Resources)
+- [Attack of the Clones](#attack-of-the-clones)
+		- [Description](#description)
+		- [Table of contents](#table-of-contents)
+		- [MVP](#mvp)
+			- [Wireframe](#wireframe)
+			- [Tech Stack](#tech-stack)
+		- [Process](#process)
+				- [Setup:](#setup)
+				- [Develop:](#develop)
+				- [Deploy:](#deploy)
+		- [Requirements](#requirements)
+			- [Additional Requirements](#additional-requirements)
+			- [Stretch Goals](#stretch-goals)
+			- [If you finish early...](#if-you-finish-early)
+		- [Additional Resources](#additional-resources)
 <!--te-->
 
 ### MVP
 
 By default, the clone app should replicate the design and functionality of the real app front end as closely as possible. The back end is required to pull from the mySQL server as an API and generate/store data and maintain users, data, and state.
 
-It *is* possible to [put React.js directly on a blade](https://dev.to/lvtdeveloper/using-react-in-a-laravel-application-8fp), but this type of archetecture is known as [RESTless, or SOAP](https://pediaa.com/what-is-the-difference-between-restful-and-restless-web-service/#:~:targetText=The%20main%20difference%20between%20RESTful,does%20not%20follow%20RESTful%20principles.&targetText=Moreover%2C%20a%20web%20service%20is%20platform%20independent.), which is more resource intensive and would now be considered a poor practice in comparison. You can experiment with a RESTless web server in the [Laravel Library](https://github.com/bootcamp-students/Projects-Exercises/blob/master/docs/projects/laravel-library.md)
+It *is* possible to [put React directly on a blade](https://dev.to/lvtdeveloper/using-react-in-a-laravel-application-8fp), but this type of archetecture is known as [RESTless, or SOAP](https://pediaa.com/what-is-the-difference-between-restful-and-restless-web-service/#:~:targetText=The%20main%20difference%20between%20RESTful,does%20not%20follow%20RESTful%20principles.&targetText=Moreover%2C%20a%20web%20service%20is%20platform%20independent.), which is more resource intensive and would now be considered a poor practice in comparison. You can experiment with a RESTless web server in the [Laravel Library](https://github.com/bootcamp-students/Projects-Exercises/blob/master/docs/projects/laravel-library.md)
 
 
 #### Wireframe
@@ -47,7 +47,7 @@ It *is* possible to [put React.js directly on a blade](https://dev.to/lvtdevelop
 
 #### Tech Stack
 
-1. React.JS
+1. React
 2. MySQL
 3. Laravel
 
@@ -98,7 +98,7 @@ To complete the assignment, you must complete the following:
    - Atoms -> Molecules -> Organism (component)
 
 3. **Create the backend first** using Laravel for API CRUD calls and to store data
-4. **Create the frontend second** using React.js for creating components and connecting to the API via Axios
+4. **Create the frontend second** using React for creating components and connecting to the API via Axios
 5. Have full CRUD functionality (besides the users auth) for at least one aspect of the site (does not need to be complicated)
 6. Utilize one to many, many to one, one to one, many to many, and create connection tables, joins, and indexes for ease of use.
 7. Create automated functions to generate dummy data to display on the react ui by utilize the factory design pattern

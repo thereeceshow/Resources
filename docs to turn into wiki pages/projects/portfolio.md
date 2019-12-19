@@ -4,7 +4,7 @@
 
 Create a webpage that simulates a mobile or desktop layout with apps and widgets
 
-For this project we will be using react to componentize all our vanilla javascript projects, and laravel to add all of our react components to a home screen where users can decide what to click on.
+For this project we will be using react to componentize all our vanilla JavaScript projects, and laravel to add all of our react components to a home screen where users can decide what to click on.
 
 ### Table of contents
 
@@ -42,7 +42,7 @@ Option 2
 1. HTML
 2. CSS
 3. JS
-4. React.JS
+4. React
 5. MySQL
 6. PHP
 7. Laravel
@@ -80,7 +80,7 @@ Option 2
 
 To complete the assignment, you must complete the following:
 
-1. Keep the original projects in their repos, you can use them as reference, but since you will be creating all of these in react.js, you will not need to copy old code over, but rather create a new version from scratch that lives in this repo instead.
+1. Keep the original projects in their repos, you can use them as reference, but since you will be creating all of these in , you will not need to copy old code over, but rather create a new version from scratch that lives in this repo instead.
 2. Component-ize each of the following vanilla JS project with the following additional requirements:
    - Clock and Countdown Timer will be one component with a prop that says which view to display, and a prop that is the start button for the countdown timer
    - Weather app shows a minified icon version of the weather on the main screen, and when you click on the app, it should show the full weather app
@@ -127,4 +127,4 @@ For more information about portfolios, see these articles:
 - [Google](https://www.google.com/search?q=developer+portfolio&oq=developer+portfolio&aqs=chrome..69i57j0l5.3263j1j7&sourceid=chrome&ie=UTF-8)
 - [GitHub article](https://techbeacon.com/app-dev-testing/what-do-job-seeking-developers-need-their-github)
 - [LinkedIn](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
-- [Putting React.js into Laravel](https://laravel.com/docs/6.x/frontend#using-react)
+- [Putting React into Laravel](https://laravel.com/docs/6.x/frontend#using-react)

@@ -38,7 +38,7 @@ A single page web app that serves as a restaurant splash page with menu
 
 #### Tech Stack
 
-- React.JS
+- React
 
 1. HTML
 2. CSS
@@ -89,8 +89,8 @@ To complete the assignment, you must complete the following:
 - Each menu item must be an [molecule](https://patternlab.io) (for example, using a bootstrap card with a picture of the meal, as well as the name, and the price, etc)
 
 3. You must use at least one [NPM package](#Recommended-NPM-Installs) to assist you with this project
-4. Manage the React.js component state and manipulate the Virtual DOM
-5. Each time you access the API, you get a different menu. Use the [React.js Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) to save the results in local storage so that every time your website is accessed, the user gets the same menu. (Different users will see different menus; that's okay)
+4. Manage the React component state and manipulate the Virtual DOM
+5. Each time you access the API, you get a different menu. Use the [React Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html) to save the results in local storage so that every time your website is accessed, the user gets the same menu. (Different users will see different menus; that's okay)
 
 #### Additional Requirements
 
@@ -132,14 +132,14 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn React.js](https://reactjs.org)
+- [Learn React](https://reactjs.org)
 
 For more information about OOP, see these articles:
 
 - [Object Oriented Programming wiki](https://en.wikipedia.org/wiki/Object-oriented_programming)
 - [OOP vanilla JS](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
-- [SOLID OOP principles with React.js](https://www.innofied.com/solid-object-oriented-principles-in-react-native-architecture/)
-- [React.js as a functional language](https://medium.com/@andrea.chiarelli/the-functional-side-of-react-229bdb26d9a6#targetText=A%20Higher%2DOrder%20component%20is,new%20component%20as%20its%20output.)
+- [SOLID OOP principles with React](https://www.innofied.com/solid-object-oriented-principles-in-react-native-architecture/)
+- [React as a functional language](https://medium.com/@andrea.chiarelli/the-functional-side-of-react-229bdb26d9a6#targetText=A%20Higher%2DOrder%20component%20is,new%20component%20as%20its%20output.)
 
 For more information about API Calls, see these articles:
 

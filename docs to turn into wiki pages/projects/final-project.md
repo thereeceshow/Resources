@@ -4,7 +4,7 @@
 
 Create a web app that uses all the technologies learned throughout the bootcamp
 
-For this project we will be using Laravel, React.js and bootstrap for styling.
+For this project we will be using Laravel, React and bootstrap for styling.
 
 We will also be following the Agile Scrum Methodology and working within the scope of a two week sprint
 
@@ -12,19 +12,20 @@ We will also be following the Agile Scrum Methodology and working within the sco
 
 <!--ts-->
 
-- [Project/Exercise Name](#Final-Project)
-- [Description](#Description)
-- [Table of Contents](#table-of-contents)
-- [MVP (Minimum Viable Product)](#MVP)
-  - [Tech Stack](#Tech-Stack)
-- [Process](#process)
-  - [Setup](#Setup)
-  - [Develop](#Develop)
-  - [Deploy](#Deploy)
-- [Requirements](#Requirements)
-  - [Additional Requirements](#Additional-Requirements)
-  - [Stretch Goals](#Stretch-Goals)
-- [Additional Resources](#Additional-Resources)
+- [Final Project](#final-project)
+		- [Description](#description)
+		- [Table of contents](#table-of-contents)
+		- [MVP](#mvp)
+			- [Tech Stack](#tech-stack)
+		- [Process](#process)
+				- [Setup:](#setup)
+				- [Develop:](#develop)
+				- [Deploy:](#deploy)
+		- [Requirements](#requirements)
+			- [Additional Requirements](#additional-requirements)
+			- [Stretch Goals](#stretch-goals)
+			- [If you finish early...](#if-you-finish-early)
+		- [Additional Resources](#additional-resources)
   <!--te-->
 
 ### MVP
@@ -36,7 +37,7 @@ By default, your app should use all the technologies learned throughout the boot
 1. HTML
 2. CSS
 3. JS
-4. React.JS
+4. React
 5. PHP
 6. MySQL
 7. Laravel
@@ -84,7 +85,7 @@ To complete the assignment, you must complete the following:
 
 2. Create a Full Stack Web App using all the technologies learned throughout the bootcamp
 <!-- 3. Have full CRUD functionality -->
-<!-- 4. Use React.js for components and front end functionality with Bootstrap -->
+<!-- 4. Use React for components and front end functionality with Bootstrap -->
 <!-- 5. Use Laravel for database connectivity and back end routing -->
 <!-- 6. Use Eloquent to create relations, joins, connection tables, and indexes in MySQL. -->
 <!-- 7. Hit an external API. -->
@@ -126,4 +127,4 @@ For more information about app ideas, see these articles:
 - [How To Get New App Ideas](https://www.entrepreneur.com/article/278369)
 - [Startup Idea Generator](https://www.kamogo.com/5)
 - [Terrible Startup Ideas](https://www.redbull.com/nz-en/weirdest-worst-tech-startup-ideas)
-- [Using React.js With Laravel](https://laravel.com/docs/6.x/frontend#using-react)
+- [Using React With Laravel](https://laravel.com/docs/6.x/frontend#using-react)

@@ -4,7 +4,7 @@
 
 Create a webpage that acts as a hub for librarians to know the status of books in their library, and update books and their information
 
-For this project we will be using Composer to generate a Laravel project, and adding an artisan preset to use React.js in our laravel project to create components to put onto blade.php files
+For this project we will be using Composer to generate a Laravel project, and adding an artisan preset to use React in our laravel project to create components to put onto blade.php files
 
 You will not be able to host this site on github, but you will still store github versioning online, so to learn about how to properly [link a repo created on the command line with an existing repo you created on the GitHub website, click here](https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line)
 
@@ -13,20 +13,22 @@ For site hosting, we will be using Google Cloud
 ### Table of contents
 
 <!--ts-->
-- [Project/Exercise Name](#Laravel-Library)
-- [Description](#Description)
-- [Table of Contents](#table-of-contents)
-- [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
-  - [Tech Stack](#Tech-Stack)
-- [Process](#process)
-  - [Setup](#Setup)
-  - [Develop](#Develop)
-  - [Deploy](#Deploy)
-- [Requirements](#Requirements)
-  - [Additional Requirements](#Additional-Requirements)
-  - [Stretch Goals](#Stretch-Goals)
-- [Additional Resources](#Additional-Resources)
+- [Laravel Library](#laravel-library)
+		- [Description](#description)
+		- [Table of contents](#table-of-contents)
+		- [MVP](#mvp)
+			- [Wireframe](#wireframe)
+			- [Tech Stack](#tech-stack)
+		- [Process](#process)
+				- [Setup:](#setup)
+				- [Develop:](#develop)
+				- [Deploy:](#deploy)
+		- [Requirements](#requirements)
+	- [9. Add this project to your portfolio as a link](#9-add-this-project-to-your-portfolio-as-a-link)
+			- [Additional Requirements](#additional-requirements)
+			- [Stretch Goals](#stretch-goals)
+			- [If you finish early...](#if-you-finish-early)
+		- [Additional Resources](#additional-resources)
 <!--te-->
 
 ### MVP
@@ -36,14 +38,14 @@ By default, the app should let a Librarian maintain a simulated library via a we
 #### Wireframe
 
 [Library Wireframes](../wireframes/library) - you do not need to copy these exactly, it's just one of many ideas.
-Remember, this is a back end project; it does not need to look pretty, it needs to work. You can use React.js to play around in the front end, but only after you get it working behind the scenes.
+Remember, this is a back end project; it does not need to look pretty, it needs to work. You can use React to play around in the front end, but only after you get it working behind the scenes.
 
 #### Tech Stack
 
 1. HTML
 2. CSS
 3. JS
-4. React.JS
+4. React
 5. MySQL
 6. PHP
 7. Laravel
@@ -76,7 +78,7 @@ Remember, this is a back end project; it does not need to look pretty, it needs 
 
 ### Requirements
 
-*Do not begin using React.js until you have successfully completed the project. This is a back end project; it does not need to look pretty, it needs to work.*
+*Do not begin using React until you have successfully completed the project. This is a back end project; it does not need to look pretty, it needs to work.*
 
 To complete the assignment, you must complete the following:
 
@@ -88,18 +90,18 @@ To complete the assignment, you must complete the following:
 5. Users do not *need* to sign up or be real people, you can simulate this by clicking a "new user" button in the admin interface as a Librarian.
 6. Show all user and book statistics that are saved in database (for example: There are 3 users registered with the library, user "jim" has 2 books checked out: "Algorithms", and "Design Patterns", user "phil" has 0 books checked out, and user "sally" has 1 book checked out: "The Pragmatic Programmer", there are 5 books in the library total, three are checked out, etc.) you can format this data however you'd like, we suggest a html table with multiple tabs
 7. Be able to click any user or book and view the info as well as perform full CRUD where applicable.(librarian superuser can perform any action and view any page, but basic card holder user can only view a subset of pages and perform limited actions)
-8. Use React.js for creating components to put on Laravel Blades.
+8. Use React for creating components to put on Laravel Blades.
 9. Add this project to your portfolio as a link
 ---
 
-To [set up React.js into Laravel](https://laravel.com/docs/6.x/frontend#using-react)
+To [set up React into Laravel](https://laravel.com/docs/6.x/frontend#using-react)
 
 1. `laravel new laravel-library` 
 2. `cd laravel-library` 
 3. `php artisan preset react` 
 4. `npm install && npm run dev` 
 
-**Do not begin using React.js until you have successfully completed the project. This is a back end project; it does not need to look pretty, it needs to work.**
+**Do not begin using React until you have successfully completed the project. This is a back end project; it does not need to look pretty, it needs to work.**
 
 ---
 
@@ -116,7 +118,7 @@ To [set up React.js into Laravel](https://laravel.com/docs/6.x/frontend#using-re
 
 * Create backend archetecture wireframes for use in a potential MVP
 * Create a search bar for querying books from the Google Books API
-* Create a full stack site by [using React.js for all front end](https://laravel.com/docs/6.x/frontend#using-react)
+* Create a full stack site by [using React for all front end](https://laravel.com/docs/6.x/frontend#using-react)
 * Implement Laravel Auth using composer to create many "Librarians"
 * Add a 'due by date' that keeps track of how long a book has been checked out
 * Add a 'late fee' for books that have been checked out too long that can be modified by the librarian
@@ -124,7 +126,7 @@ To [set up React.js into Laravel](https://laravel.com/docs/6.x/frontend#using-re
 * Add a way for users to put a book on hold if someone else has it currently checked out
 * Add a history for the librarians to see a list of all people who checked out a particular book
 * Add any other data to the scheme as long as it is NOT redundant
-* [Use React.js as a frontend that communicates with the Laravel library as a REST API](https://restfulapi.net/)
+* [Use React as a frontend that communicates with the Laravel library as a REST API](https://restfulapi.net/)
 
 #### If you finish early...
 
@@ -145,5 +147,5 @@ For more information about CRUD, see these articles:
 
 Using React with Laravel
 
-* [Putting React.js into Laravel](https://laravel.com/docs/6.x/frontend#using-react)
+* [Putting React into Laravel](https://laravel.com/docs/6.x/frontend#using-react)
 

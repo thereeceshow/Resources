@@ -10,21 +10,22 @@ For this project we will be using the Date object and setInterval
 
 <!--ts-->
 
-- [Project/Exercise Name](#Digital-Clock)
-- [Description](#Description)
-- [Table of Contents](#table-of-contents)
-- [MVP (Minimum Viable Product)](#MVP)
-  - [Wireframe](#Wireframe)
-  - [Tech Stack](#Tech-Stack)
-- [Process](#process)
-  - [Setup](#Setup)
-  - [Application File Structure](#Application-File-Structure)
-  - [Develop](#Develop)
-  - [Deploy](#Deploy)
-- [Requirements](#Requirements)
-  - [Additional Requirements](#Additional-Requirements)
-  - [Stretch Goals](#Stretch-Goals)
-- [Additional Resources](#Additional-Resources)
+- [Digital Clock](#digital-clock)
+		- [Description](#description)
+		- [Table of contents](#table-of-contents)
+		- [MVP](#mvp)
+			- [Wireframe](#wireframe)
+			- [Tech Stack](#tech-stack)
+		- [Process](#process)
+				- [Setup:](#setup)
+					- [Application File Structure](#application-file-structure)
+				- [Develop:](#develop)
+				- [Deploy:](#deploy)
+		- [Requirements](#requirements)
+			- [Additional Requirements](#additional-requirements)
+			- [Stretch Goals](#stretch-goals)
+			- [If you finish early...](#if-you-finish-early)
+		- [Additional Resources](#additional-resources)
   <!--te-->
 
 ### MVP
@@ -128,4 +129,4 @@ To complete the assignment, you must complete the following:
 For more information about coding time, see these articles:
 
 - [The problem with coding time](https://www.youtube.com/watch?v=-5wpm-gesOY)
-- [History Of Javascript](https://fireship.io/courses/javascript/intro-history/)
+- [History Of JavaScript](https://fireship.io/courses/javascript/intro-history/)
