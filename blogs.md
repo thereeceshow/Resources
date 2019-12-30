@@ -1,0 +1,1 @@
+copy s20 blog table here for pr

@@ -154,7 +154,7 @@ Example:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
+- [W3 Schools - Learn JS](https://www.w3schools.com/js/)
 
 For more information about computer math, see these articles:
 

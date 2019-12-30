@@ -149,7 +149,7 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
+- [W3 Schools - Learn JS](https://www.w3schools.com/js/)
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 - [Pull Requests](https://stackoverflow.com/questions/21657430/why-is-a-git-pull-request-not-called-a-push-request)
 

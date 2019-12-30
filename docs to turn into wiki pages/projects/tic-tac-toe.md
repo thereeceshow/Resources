@@ -137,7 +137,7 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
+- [W3 Schools - Learn JS](https://www.w3schools.com/js/)
 
 For more information about games and code, see these articles:
 

@@ -135,7 +135,7 @@ To complete the assignment, you must complete the following:
 - Ask questions :-)
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
-- [Learn JS](https://www.w3schools.com/js/)
+- [W3 Schools - Learn JS](https://www.w3schools.com/js/)
 - [Why Can't Anyone Make a Decent To-Do App?](https://www.wired.com/2016/03/best-to-do-list-app/)
 
 For more information about state management, see these articles:
