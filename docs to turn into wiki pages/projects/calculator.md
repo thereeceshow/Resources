@@ -151,7 +151,7 @@ Example:
 
 ### Additional Resources
 
-- Ask questions :-)
+- Ask questions :grinning:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [W3 Schools - Learn JS](https://www.w3schools.com/js/)
