@@ -111,7 +111,7 @@ To complete the assignment, you must complete the following:
 
 ### Additional Resources
 
-- Ask questions :grinning:
+- Ask questions :smile:
 - [Class Resources Repo](https://github.com/bootcamp-students/Resources)
 - Learn more about [Good GitHub Practices](https://guides.github.com)
 - [Learn PHP](https://www.w3schools.com/php/)

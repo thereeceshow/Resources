@@ -63,5 +63,5 @@ Add interactivity! Here are a few suggestions (but feel free to come up with you
 
 ## If you get stuck...
 
-Ask. :grinning:
+Ask. :smile:
 

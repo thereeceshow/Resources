@@ -80,5 +80,5 @@ Ask questions if you get stuck.
 
 Have fun with this assignment. It's very similar to what we've done before, 
 so you have plenty of code examples to use for inspiration. Pick a theme that 
-you enjoy, and make a beautiful gallery full of interesting exhibits. :grinning:
+you enjoy, and make a beautiful gallery full of interesting exhibits. :smile:
 

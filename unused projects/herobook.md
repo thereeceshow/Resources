@@ -76,5 +76,5 @@ Profile pages should include a link to return to the roster (index.php).
 
 ## If you get stuck...
 
-Ask. :grinning:
+Ask. :smile:
 
