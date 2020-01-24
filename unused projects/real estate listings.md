@@ -6,9 +6,9 @@ Create a webpage that displays real estate listings.
 
 To complete the assignment, you must:
 
-1. Create a public repo in your personal Github account.
+1. Create a public repo in your personal GitHub account.
 2. Create HTML, JS, and markdown files and add them to your project.
-3. Push your code to Github.
+3. Push your code to GitHub.
 4. Deploy your application to Heroku.
 
 Bootstrap 3 or 4 should be used for basic styling. Do not spend time customizing the CSS; use only Bootstrap classes.
@@ -43,7 +43,7 @@ Make sure there's something to read in your README file.
 
 It's okay if your project has more files, but at the least you need the ones listed above.
 
-## Remember to push to Github!
+## Remember to push to GitHub!
 
 Your repo should be public so that others can see your code and comment on it.
 

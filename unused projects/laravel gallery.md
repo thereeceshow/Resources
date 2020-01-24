@@ -49,14 +49,14 @@ Only logged-in users should be able to add, edit, and delete gallery exhibits.
 Add a minimum of 5 exhibits to your project. You can add them as seeds, through the
 user interface, or both.
 
-Save your code in a Github repo.
+Save your code in a GitHub repo.
 
 Deploy your code to Heroku.
 
 ## Turning in the assignment
 
 Your project is due at 5:00 pm on Friday, November 16. Post links to both your
-Heroku application and Github repo in your Class Notes page.
+Heroku application and GitHub repo in your Class Notes page.
 
 ## Suggestions for additional features
 

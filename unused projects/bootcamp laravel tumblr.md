@@ -17,7 +17,7 @@ and displays the most recent entry first.
 4. Add authentication to your project.
 5. You'll need to design a database for your project. Create migrations
 for your tables.
-6. Save your work in a public Github repo.
+6. Save your work in a public GitHub repo.
 ```
 
 ```
@@ -69,7 +69,7 @@ indicate that they were shared).
 ## Turning in your work
 
 Your project is due at noon on Wednesday, November 7. To turn in your work,
-add a link to your Github repo to your index file in the Class Notes project.
+add a link to your GitHub repo to your index file in the Class Notes project.
 Merge your branch into dev; no need to wait for +1s for such a small change.
 
 

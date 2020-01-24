@@ -7,7 +7,7 @@ Flash cards are slips of paper with a term on one side and its definition on the
 Your application should, minimally:
 
 1. Use PHP, Laravel, and PostgreSQL. You may also use JavaScript and Vue if you wish.
-2. Have a github repository.
+2. Have a GitHub repository.
 3. Require users to log in before displaying or managing the content of their deck.
 4. Allow users to add, edit, and delete individual cards. Each card has a term and a definition (both are strings/text). You may include additional fields as needed.
 5. Provide a page where users can review their deck, one card at a time, showing both the term and the definition together. Some kind of control must be present to allow users to move from one card to the next.
