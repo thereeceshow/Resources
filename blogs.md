@@ -1,6 +1,6 @@
-# Fill this out with your info
+# Fill this out with your correct info, fixing any spelling mistakes and matching the format below
 
-See mine for an example
+See Ian's for an example
 
 | Name             | GitHub Profile                                   | Portfolio                                      |
 | ---------------- | ------------------------------------------------ | ---------------------------------------------- |
