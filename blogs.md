@@ -1,6 +1,8 @@
-# Fill this out with your correct info, fixing any spelling mistakes and matching the format below
+# Fill this out with your individual correct infomation, fixing any spelling mistakes and matching the format below
 
 See Ian's for an example
+
+Don't forget to create a pull request when you are complete. This task is marked complete when Ian approves and merges your pull request with master.
 
 | Name             | GitHub Profile                                   | Portfolio                                      |
 | ---------------- | ------------------------------------------------ | ---------------------------------------------- |
