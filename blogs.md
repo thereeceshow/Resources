@@ -13,7 +13,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Colin McCulloch  |                                                  |                                                |
 | Jonathan Mefford |                                                  |                                                |
 | Allison Miller   |                                                  |                                                |
-| Hayden Nesbit    |                                                  |                                                |
+| Hayden Nesbit    |[github.com/hayden-nesbit](https://github.com/hayden-nesbit)|[https://hayden-nesbit.github.io](https://https://hayden-nesbit.github.io)|
 | David Oliver     |                                                  |                                                |
 | Tim Rogers       |                                                  |                                                |
 | Kate Sivy        |                                                  |                                                |
