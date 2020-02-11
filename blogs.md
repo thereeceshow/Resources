@@ -15,6 +15,6 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Allison Miller   |                                                  |                                                |
 | Hayden Nesbit    |                                                  |                                                |
 | David Oliver     |                                                  |                                                |
-| Tim Rogers       |                                                  |                                                |
+| Tim Rogers       |[github.com/tkrogers3](https://github.com/tkrogers3)|[tkrogers3.github.io](https://tkrogers3.github.io)|
 | Kate Sivy        |                                                  |                                                |
 | Kelly Wilson     |                                                  |                                                |
