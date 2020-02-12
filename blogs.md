@@ -9,7 +9,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Ian Rios         | [github.com/ianrios](https://github.com/ianrios) | [ianrios.github.io](https://ianrios.github.io) |
 | Denis Gatotho    |                                                  |                                                |
 | Andrew Grinstead |                                                  |                                                |
-| Cody Herbst      |                                                  |                                                |
+| Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)|[codyherbst.github.io](https://codyherbst.github.io|
 | Colin McCulloch  |                                                  |                                                |
 | Jonathan Mefford |                                                  |                                                |
 | Allison Miller   |                                                  |                                                |
