@@ -17,4 +17,4 @@ Don't forget to create a pull request when you are complete. This task is marked
 | David Oliver     | [github.com/davo1984](https://github.com/davo1984) | [davo1984.github.io](https://davo1984.github.io) |
 | Tim Rogers       |                                                  |                                                |
 | Kate Sivy        |                                                  |                                                |
-| Kelly Wilson     |                                                  |                                                |
+| Kelly Wilson     | (github.com/KellyLWilson)(https://github.com/KellyLWilson | (github.com/KellyLWilson/my-app)(https://kellylwilson.github.io/my-app/) |
