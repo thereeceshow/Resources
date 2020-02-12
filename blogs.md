@@ -12,9 +12,9 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Cody Herbst      |                                                  |                                                |
 | Colin McCulloch  |                                                  |                                                |
 | Jonathan Mefford |                                                  |                                                |
-| Allison Miller   |                                                  |                                                |
+| Allison Miller   |                                                  |                                                |                                               |                                                |
+| Tim Rogers       | [github.com/tkrogers3](https://github.com/tkrogers3) | [tkrogers3.github.io](https://tkrogers3.github.io) |
 | Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)| [hayden-nesbit.github.io](https://hayden-nesbit.github.io) |
 | David Oliver     | [github.com/davo1984](https://github.com/davo1984) | [davo1984.github.io](https://davo1984.github.io) |
-| Tim Rogers       |                                                  |                                                |
 | Kate Sivy        |                                                  |                                                |
 | Kelly Wilson     | (github.com/KellyLWilson)(https://github.com/KellyLWilson | (github.com/KellyLWilson/my-app)(https://kellylwilson.github.io/my-app/) |
