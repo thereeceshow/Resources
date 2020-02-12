@@ -1,4 +1,4 @@
-# Fill this out with your individual correct infomation, fixing any spelling mistakes and matching the format below
+# Fill this out with your individual correct information, fixing any spelling mistakes and matching the format below
 
 See Ian's row for an example. To edit the file, you will need to fork a copy to your own GitHub.
 
@@ -12,9 +12,9 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Cody Herbst      |                                                  |                                                |
 | Colin McCulloch  |                                                  |                                                |
 | Jonathan Mefford |                                                  |                                                |
-| Allison Miller   |                                                  |                                                |
-| Hayden Nesbit    |                                                  |                                                |
-| David Oliver     |                                                  |                                                |
-| Tim Rogers       |[github.com/tkrogers3](https://github.com/tkrogers3)|[tkrogers3.github.io](https://tkrogers3.github.io)|
+| Allison Miller   |                                                  |                                                |                                               |                                                |
+| Tim Rogers       | [github.com/tkrogers3](https://github.com/tkrogers3) | [tkrogers3.github.io](https://tkrogers3.github.io) |
+| Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)| [hayden-nesbit.github.io](https://hayden-nesbit.github.io) |
+| David Oliver     | [github.com/davo1984](https://github.com/davo1984) | [davo1984.github.io](https://davo1984.github.io) |
 | Kate Sivy        |                                                  |                                                |
-| Kelly Wilson     |                                                  |                                                |
+| Kelly Wilson     | (github.com/KellyLWilson)(https://github.com/KellyLWilson | (github.com/KellyLWilson/my-app)(https://kellylwilson.github.io/my-app/) |
