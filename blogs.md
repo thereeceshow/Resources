@@ -11,7 +11,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Andrew Grinstead |                                                              |                                                                  |
 | Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)       | [codyherbst.github.io](https://codyherbst.github.io)             |
 | Colin McCulloch  |                                                              |                                                                  |
-| Jonathan Mefford |                                                              |                                                                  |
+| Jonathan Mefford |[github.com/JonathanDMefford](https://github.com/JonathanDMefford)                                                |[JonathanDMefford.github.io](  https://jonathandmefford.github.io/)                                                               |
 | Allison Miller   |                                                              |                                                                  |
 | Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit) | [hayden-nesbit.github.io](https://hayden-nesbit.github.io)       |
 | David Oliver     | [github.com/davo1984](https://github.com/davo1984)           | [davo1984.github.io](https://davo1984.github.io)                 |
