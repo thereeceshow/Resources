@@ -12,7 +12,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Cody Herbst      |                                                  |                                                |
 | Colin McCulloch  |                                                  |                                                |
 | Jonathan Mefford |                                                  |                                                |
-| Allison Miller   |                                                  |                                                |
+| Allison Miller   | [github.com/allisonrmiller](https://github.com/AllisonRMiller)| [allisonrmiller.github.io](https://allisonrmiller.github.io/)|
 | Hayden Nesbit    |                                                  |                                                |
 | David Oliver     |                                                  |                                                |
 | Tim Rogers       |                                                  |                                                |
