@@ -16,5 +16,5 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit) | [hayden-nesbit.github.io](https://hayden-nesbit.github.io)       |
 | David Oliver     | [github.com/davo1984](https://github.com/davo1984)           | [davo1984.github.io](https://davo1984.github.io)                 |
 | Tim Rogers       |                                                              |                                                                  |
-| Kate Sivy        |                                                              |                                                                  |
+| Kate Sivy        | [github.com/katesivy](https://github.com/katesivy)  |  [katesivy.github.io](https://katesivy.github.io)                 |                                                         
 | Kelly Wilson     | [github.com/KellyLWilson](https://github.com/KellyLWilson)   | [kellylwilson.github.io](https://kellylwilson.github.io/my-app/) |
