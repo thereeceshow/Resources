@@ -10,7 +10,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Denis Gatotho    | [github.com/denisgat](https://github.com/denisgat)                 | [denisgat.github.io](https://denisgat.github.io)                  |
 | Andrew Grinstead |                                                                    |                                                                   |
 | Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [codyherbst.github.io](https://codyherbst.github.io)              |
-| Colin McCulloch  |  [github.com.ColinMcC76](https://github.com/ColinMcC76)            | [ColinMcC76.github.io] (https://ColinMcC76.github.io/)             |                                                                   
+| Colin McCulloch  |  [github.com.ColinMcC76](https://github.com/ColinMcC76)            | [ColinMcC76.github.io]              |                                                                   
 | Jonathan Mefford | [github.com/JonathanDMefford](https://github.com/JonathanDMefford) | [JonathanDMefford.github.io](https://jonathandmefford.github.io/) |
 | Allison Miller   |                                                                    |                                                                   |
 | Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)       | [hayden-nesbit.github.io](https://hayden-nesbit.github.io)        |
