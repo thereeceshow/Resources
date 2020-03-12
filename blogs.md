@@ -1,4 +1,4 @@
-# Fill this out with your individual correct information, fixing any spelling mistakes and matching the format below
+      # Fill this out with your individual correct information, fixing any spelling mistakes and matching the format below
 
 To edit the file, you will need to fork a copy to your own GitHub.
 
@@ -7,7 +7,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Name             | GitHub Profile                                                     | Portfolio                                                                                  |
 | ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Denis Gatotho    | [github.com/denisgat](https://github.com/denisgat)                 | [denisgat.github.io](https://denisgat.github.io)                                           |
-| Andrew Grinstead |                                                                    |                                                                                            |
+| Andrew Grinstead | [github.com/amick12](https://github.com/amick12)                    | [amick12.github.io](https://amick12.github.io/)                                                               |                                                                                            |
 | Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [codyherbst.github.io](https://codyherbst.github.io)                                       |
 | Colin McCulloch  | [github.com.ColinMcC76](https://github.com/ColinMcC76)             | [ColinMcC76.github.io](https://ColinMcC76.github.io/)                                      |
 | Jonathan Mefford | [github.com/JonathanDMefford](https://github.com/JonathanDMefford) | [JonathanDMefford.github.io](https://jonathandmefford.github.io/)                          |
