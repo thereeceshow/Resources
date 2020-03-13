@@ -1,14 +1,3 @@
-class Candle {
-	constructor(color, sparkler) {
-		this.color = color;
-		this.sparkler = sparkler;
-		this.candlesLit = false;
-	}
-	lightCandles(candleStatus) {
-		this.candlesLit = candleStatus
-	}
-}
-
 class Cake {
 	constructor(type, layers, icing, candleNum) {
 		this.type = type;
@@ -22,6 +11,16 @@ class Cake {
 			this.candles.push(new Candle("blue", false))
 			console.log(this.candles)
 		}
+	}
+}
+class Candle {
+	constructor(color, sparkler) {
+		this.color = color;
+		this.sparkler = sparkler;
+		this.candlesLit = false;
+	}
+	lightCandles(candleStatus) {
+		this.candlesLit = candleStatus
 	}
 }
 
