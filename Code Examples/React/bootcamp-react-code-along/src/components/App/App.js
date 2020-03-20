@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
-import Navbar from "./Navbar"
-import ImageGallery from './ImageGallery';
+import Navbar from "../Navbar"
+import ImageGallery from '../ImageGallery';
+import Blog from '../Blog';
 
 class App extends React.Component {
 	constructor(props) {
@@ -13,7 +14,6 @@ class App extends React.Component {
 		console.log("in the update page function", newPage)
 		this.setState({ currentPage: newPage })
 	}
-
 	render() {
 		return (
 			<div className="App">
@@ -26,14 +26,21 @@ class App extends React.Component {
 						{this.state.currentPage}
 					</p>
 				</header>
-				<div className="container">
-					{
-						this.state.currentPage === "Memes" ?
-							<ImageGallery /> :
-							null
-					}
-				</div>
 
+				{
+					this.state.currentPage === "Blog" ?
+						<Blog />
+						:
+						null
+				}
+				{
+					this.state.currentPage === "Memes" ?
+						<div className="container" id="meme-image-gallery-view">
+							<ImageGallery />
+						</div>
+						:
+						null
+				}
 			</div>
 		)
 	}

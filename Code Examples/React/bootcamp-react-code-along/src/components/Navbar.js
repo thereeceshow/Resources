@@ -4,9 +4,9 @@ class Navbar extends React.Component {
 	constructor(props) {
 		super(props)
 		this.navbarLinks = [
+			"Home",
 			"Blog",
 			"About",
-			"Home",
 			"Projects",
 			"Memes"]
 	}
@@ -17,13 +17,12 @@ class Navbar extends React.Component {
 				<React.Fragment key={index}>
 					<a
 						onClick={() => this.props.updatePage(link)}
-						className="pl-2"
 						href="#"
 
 					>
 						{link}
 					</a>
-					{this.navbarLinks.length-1 === index ? null : (<p>-</p>)}
+					{this.navbarLinks.length - 1 === index ? null : (<> • </>)}
 				</React.Fragment>
 			)
 		})

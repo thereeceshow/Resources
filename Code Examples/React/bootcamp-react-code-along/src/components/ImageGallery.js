@@ -4,6 +4,7 @@ function Image(props) {
 	console.log(props)
 	return (
 		<img
+			style={props.style}
 			onClick={() => {
 				console.log(props.index)
 				props.clicker(props.index)
@@ -32,9 +33,7 @@ class ImageGallery extends React.Component {
 	updateImageIndex(newIndex) {
 		this.setState({ current_index: newIndex })
 	}
-
 	render() {
-
 		const mappedImages = this.img_arr.map((image, index) => {
 			return (
 				<div className="col-2" key={index}>
@@ -47,12 +46,17 @@ class ImageGallery extends React.Component {
 				</div>
 			)
 		})
-
 		return (
 			<>
 				<div className="row">
 					<div className="col-8 offset-2">
 						<Image
+							style={{
+								maxHeight: "350px",
+								minHeight: "250px"
+							}}
+							clicker={this.updateImageIndex}
+							index={this.state.current_index}
 							source={`./images/${this.img_arr[this.state.current_index]}`}
 							alt="big image"
 						/>
