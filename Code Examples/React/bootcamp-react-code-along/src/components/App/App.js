@@ -26,7 +26,6 @@ class App extends React.Component {
 						{this.state.currentPage}
 					</p>
 				</header>
-
 				{
 					this.state.currentPage === "Blog" ?
 						<Blog />

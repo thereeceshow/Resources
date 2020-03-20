@@ -25,11 +25,11 @@ class Blog extends Component {
 
 		window.localStorage.setItem('myCat', 'Tom');
 		const name = window.localStorage.getItem('name');
-		
+
 		const storage = window.localStorage
-		
+
 		console.log("localstorage is:", storage, name)
-		
+
 		window.localStorage.removeItem('myCat');
 		window.localStorage.clear();
 		window.localStorage.setItem('state', JSON.stringify(this.state));
@@ -45,23 +45,26 @@ class Blog extends Component {
 			})
 		}
 
-		const blogPosts = journalData.map((item, index) => {
-			const prettyDate = new Date(item.date)
-			const difference = Math.floor(((this.state.currentTime - prettyDate) / 1000 / 60 / 60 / 24) << 0);
-			console.log(difference)
+		const blogPosts = journalData
+			.sort((a, b) => {
+				a = new Date(a.date);
+				b = new Date(b.date);
+				return a > b ? -1 : a < b ? 1 : 0;
+			})
+			.map((item, index) => {
+				const prettyDate = new Date(item.date)
+				const difference = Math.floor(((this.state.currentTime - prettyDate) / 1000 / 60 / 60 / 24) << 0);
+				console.log(difference)
 
-
-			return (
-				<div key={index} className="border mb-5 p-4">
-					<h1>{item.title}</h1>
-					<h5>{difference} day{difference === 1 ? "" : `s`} ago</h5>
-					<hr />
-					{mappedPTags(item.paragraphs)}
-
-
-				</div>
-			)
-		})
+				return (
+					<div key={index} className="border mb-5 p-4">
+						<h1>{item.title}</h1>
+						<h5>{difference} day{difference === 1 ? "" : `s`} ago</h5>
+						<hr />
+						{mappedPTags(item.paragraphs)}
+					</div>
+				)
+			})
 		return (
 			<div className="text-left mx-5 mt-5">
 				{blogPosts}
