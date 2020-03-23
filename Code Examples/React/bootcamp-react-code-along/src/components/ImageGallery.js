@@ -1,12 +1,12 @@
 import React from 'react'
 
 function Image(props) {
-	console.log(props)
+	// console.log(props)
 	return (
 		<img
 			style={props.style}
 			onClick={() => {
-				console.log(props.index)
+				{/* console.log(props.index) */}
 				props.clicker(props.index)
 			}}
 			className="img-fluid"
