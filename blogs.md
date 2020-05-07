@@ -8,11 +8,11 @@ Don't forget to create a pull request when you are complete. This task is marked
 | ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Denis Gatotho    | [github.com/denisgat](https://github.com/denisgat)                 | [denisgat.github.io](https://denisgat.github.io)                                           |
 | Andrew Grinstead | [github.com/amick12](https://github.com/amick12)                    | [amick12.github.io](https://amick12.github.io/)                                                               |                                                                                            |
-| Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [https://react-blog-33774.web.app/](https://react-blog-33774.web.app/)                                       |
+| Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [react-blog-33774.web.app/](https://react-blog-33774.web.app/)                                       |
 | Colin McCulloch  | [github.com.ColinMcC76](https://github.com/ColinMcC76)             | [ColinMcC76.github.io](https://ColinMcC76.github.io/)                                      |
 | Jonathan Mefford | [github.com/JonathanDMefford](https://github.com/JonathanDMefford) | [JonathanDMefford.github.io](https://jonathandmefford.github.io/)                          |
 | Allison Miller   | [github.com/allisonrmiller](https://github.com/AllisonRMiller)     | [allisonrmiller.github.io](https://allisonrmiller.github.io/)                              |
-| Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)       | [hayden-nesbit.github.io](https://hayden-nesbit.github.io)                                 |
+| Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)       | [react-blog-4f714.web.app/](https://react-blog-4f714.web.app/)                                 |
 | David Oliver     | [github.com/davo1984](https://github.com/davo1984)                 | [davo1984.github.io](https://davo1984.github.io)                                           |
 | Tim Rogers       | [github.com/tkrogers3](https://github.com/tkrogers3)               | [tkrogers3.github.io](https://tkrogers3.github.io)                                         |
 | Kate Sivy        | [github.com/katesivy](https://github.com/katesivy)                 | [https://katesivy.github.io/ksivy.github.io/](https://katesivy.github.io/ksivy.github.io/) |
