@@ -8,7 +8,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | ---------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Denis Gatotho    | [github.com/denisgat](https://github.com/denisgat)                 | [denisgat.github.io](https://denisgat.github.io)                                           |
 | Andrew Grinstead | [github.com/amick12](https://github.com/amick12)                    | [amick12.github.io](https://amick12.github.io/)                                                               |                                                                                            |
-| Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [codyherbst.github.io](https://codyherbst.github.io)                                       |
+| Cody Herbst      | [github.com.codyherbst](https://github.com/codyherbst)             | [https://react-blog-33774.web.app/](https://react-blog-33774.web.app/)                                       |
 | Colin McCulloch  | [github.com.ColinMcC76](https://github.com/ColinMcC76)             | [ColinMcC76.github.io](https://ColinMcC76.github.io/)                                      |
 | Jonathan Mefford | [github.com/JonathanDMefford](https://github.com/JonathanDMefford) | [JonathanDMefford.github.io](https://jonathandmefford.github.io/)                          |
 | Allison Miller   | [github.com/allisonrmiller](https://github.com/AllisonRMiller)     | [allisonrmiller.github.io](https://allisonrmiller.github.io/)                              |
