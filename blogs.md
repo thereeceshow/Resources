@@ -12,7 +12,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Jonathan Mefford | [github.com/JonathanDMefford](https://github.com/JonathanDMefford) | [JonathanDMefford.github.io](https://jonathandmefford.github.io/)                          |
 | Allison Miller   | [github.com/allisonrmiller](https://github.com/AllisonRMiller)     | [allisonrmiller.github.io](https://allisonrmiller.github.io/)                              |
 | Hayden Nesbit    | [github.com/hayden-nesbit](https://github.com/hayden-nesbit)       | [react-blog-4f714.web.app/](https://react-blog-4f714.web.app/)                                 |
-| David Oliver     | [github.com/davo1984](https://github.com/davo1984)                 | [davo1984.github.io](https://davo1984.github.io)                                           |
+| David Oliver     | [github.com/davo1984](https://github.com/davo1984)                 | [http://davodana.com/](http://davodana.com/)                                           |
 | Tim Rogers       | [github.com/tkrogers3](https://github.com/tkrogers3)               | [tkrogers3.github.io](https://tkrogers3.github.io)                                         |
 | Kate Sivy        | [github.com/katesivy](https://github.com/katesivy)                 | [https://blog-8fadb.web.app/](https://blog-8fadb.web.app/) |
 | Kelly Wilson     | [github.com/KellyLWilson](https://github.com/KellyLWilson)         | [kellylwilson.github.io](https://kellylwilson.github.io/)                                  |
