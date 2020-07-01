@@ -9,10 +9,8 @@ class Cake {
 	generateCandles() {
 		for (let index = 0; index < this.candleNum; index++) {
 			let random = Math.random() * 20
-			// console.log(random)
 			var currentCandle = new Candle("blue", false, random);
 			this.candles.push(currentCandle)
-			// console.log(this.candles)
 		}
 	}
 }
