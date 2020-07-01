@@ -1,5 +1,3 @@
-function myFunction(variable) {
-    console.log(variable)
-
-    console.log("this is my new function")
+function myFunction(vari) {
+    console.log("this is my new function:", vari)
 }
