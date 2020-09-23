@@ -7,3 +7,4 @@ Don't forget to create a pull request for this repo when you are complete. This 
 | Name | GitHub Profile | Portfolio |
 | --- | --- | --- |
 | Ian Rios | [@ianrios](https://github.com/ianrios) | [ianrios.github.io](https://ianrios.github.io/) |
+| Reese Hudson | [@dreesehudson] (https://github.com/dreesehudson) | [dreesehudson.github.io] (https://dreesehudson.github.io) |
