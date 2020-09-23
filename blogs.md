@@ -1,8 +1,8 @@
       # Fill this out with your individual correct information, fixing any spelling mistakes and matching the format below
 
-To edit the file, you will need to fork a copy to your own GitHub.
+Edit the file using the pencil icon at the top right of this file.
 
-Don't forget to create a pull request when you are complete. This task is marked complete when Ian approves and merges your pull request with master. After you are approved, you may remove the repo from your forked repos.
+Don't forget to create a pull request for this repo when you are complete. This task is marked complete when Ian approves and merges your pull request with master. After you are approved, you may remove the repo from your forked repos.
 
 | Name | GitHub Profile | Portfolio |
 | --- | --- | --- |
