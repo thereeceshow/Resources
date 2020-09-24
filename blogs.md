@@ -6,4 +6,5 @@ Don't forget to create a pull request for this repo when you are complete. This 
 
 | Name | GitHub Profile | Portfolio |
 | --- | --- | --- |
-| Ian Rios | [@ianrios](https://github.com/ianrios) | [ianrios.github.io](https://ianrios.github.io/) |
+| Ian Rios | [@ianrios](https://github.com/ianrios) | [ianrios.github.io](https://ianrios.github.io/) 
+| Austin Carson | [@AustinC9] (https://github.com/AustinC9) | 
