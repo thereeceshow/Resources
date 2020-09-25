@@ -1,4 +1,6 @@
-      # Fill this out with your individual correct information, fixing any spelling mistakes and matching the format below
+| Name | GitHub Profile | Portfolio |
+| --- | --- | --- |
+| Ryan Kelly | [@rmke223](https://github.com/Rmke223) | [rmke223.github.io](https://github.com/Rmke223/blog) |
 
 Edit the file using the pencil icon at the top right of this file.
 
