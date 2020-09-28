@@ -14,6 +14,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Kennedy Caneer | [@kcaneer](https://github.com/kcaneer) | [kcaneer.github.io](https://kcaneer.github.io/) |
 | Anthony Davies | [@Jdavies00](https://github.com/Jdavies00) | [Jdavies00.github.io](https://jdavies00.github.io/) |
 | Becky Mead | [@rlmead](https://github.com/rlmead) | [rlmead.github.io](https://rlmead.github.io) |
+| Aaron Withers | [@alwith2](https://github.com/alwith2) | [alwith2.github.io](https://alwith2.github.io) |
 | Joe Passafiume | [@JoePass456](https://github.com/JoePass456) | [JoePass456.github.io](https://JoePass456.github.io/) |
 | Mike Garen | [@mgaren01](https://github.com/mgaren01) | [mgaren01.github.io](https://mgaren01.github.io) |
 | Evan Wilson | [@ewi1son](https://github.com/ewi1son) | [ewi1son.github.io](https://ewi1son.github.io/) |
