@@ -11,6 +11,7 @@ INSERT INTO heroes (name, about_me, biography) VALUES ('Mental Mary', 'Her name 
 INSERT INTO heroes (name, about_me, biography) VALUES ('Muscles McMuscleWoman', 'Brute strength will not solve all problems, but she doesn''t know that.', 'Born on another planet and stranded here during an intergalactic training exercise, Muscles'' muscles expanded to gigantic proportion in Earth''s nitrogen-rich atmosphere, giving her amazing strength. The extra arms don''t hurt, either.');
 INSERT INTO heroes (name, about_me, biography) VALUES ('The Hummingbird', 'He flies and he''s really fast.', 'Perhaps the next step in human evolution, The Hummingbird''s unique abilities manifested shortly after birth, when he floated out of the hospital nursery and into the care OF General Allen Fitzpatrick and his Gamma Team. After Fitzpatrick''s death at the hands of Omega Force, The Hummingbird went rogue...FOR REVENGE!');
 INSERT INTO heroes (name, about_me, biography) VALUES ('The Seer', 'He can see into your soul. Literally.', 'The Seer leads a normal life, so long AS he wears his specially-shielded glasses. Once he removes them, he can see through walls, mountains, flesh - TO the secrets held within.');
+INSERT INTO heroes (name, about_me, biography) VALUES ('Lidar Man', 'Born without the ability to see, Lidar Man learned to use his ears as a child. One day he was hit with an intense ray of gamma radiation and the only way the doctors could fix him was to add nanotech robots into his brain.', 'Because of the gamma radiation and nanotech combo, he now has the ability to see everyday objects using his mind, and with immense control he can even zoom in 1000X away!');
 
 CREATE TABLE relationship_types (
     id serial PRIMARY key,
@@ -39,6 +40,9 @@ INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (3, 2, 1);
 INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (3, 5, 1);
 INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (5, 1, 1);
 INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (5, 3, 1);
+INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (6, 1, 1);
+INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (6, 2, 2);
+INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (6, 5, 1);
 
 CREATE TABLE abilities (
     id serial PRIMARY key,
@@ -51,7 +55,7 @@ INSERT INTO abilities (ability) VALUES ('Telekinesis');
 INSERT INTO abilities (ability) VALUES ('Telepathy');
 INSERT INTO abilities (ability) VALUES ('Frost Breath');
 INSERT INTO abilities (ability) VALUES ('Super Speed');
-INSERT INTO abilities (ability) VALUES ('X-Ray Vision');
+INSERT INTO abilities (ability) VALUES ('Super Vision');
 
 CREATE TABLE ability_hero (
     id serial PRIMARY key,
@@ -66,4 +70,5 @@ INSERT INTO ability_hero (hero_id, ability_id) VALUES (3, 1);
 INSERT INTO ability_hero (hero_id, ability_id) VALUES (4, 2);
 INSERT INTO ability_hero (hero_id, ability_id) VALUES (4, 6);
 INSERT INTO ability_hero (hero_id, ability_id) VALUES (5, 7);
- 
+INSERT INTO ability_hero (hero_id, ability_id) VALUES (6, 7);
+
