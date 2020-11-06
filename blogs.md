@@ -10,7 +10,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | Reese Hudson | [@dreesehudson](https://github.com/dreesehudson) | [dreesehudson.github.io](https://dreesehudson.github.io) |
 | Duncan Scruggs | [@duncanscruggs](https://github.com/duncanbscruggs) | [blog-73667.web.app](https://blog-73667.web.app/) |
 | Chandler Ward | [@Cward92](https://github.com/Cward92) | [cward92.github.io](https://cward92.github.io/) |
-| Rachel Jackson | [@racheljay](https://github.com/racheljay) | [racheljay.github.io](https://racheljay.github.io/) |
+| Rachel Jackson | [@racheljay](https://github.com/racheljay) | [bootcamp-blog-17d2d.web.app](https://bootcamp-blog-17d2d.web.app/) |
 | Kennedy Caneer | [@kcaneer](https://github.com/kcaneer) | [kcaneer.github.io](https://kcaneer.github.io/) |
 | Anthony Davies | [@Jdavies00](https://github.com/Jdavies00) | [Jdavies00.github.io](https://jdavies00.github.io/) |
 | Becky Mead | [@rlmead](https://github.com/rlmead) | [also-and.web.app/](https://also-and.web.app/) |
