@@ -6,7 +6,7 @@ Don't forget to create a pull request when you are complete. This task is marked
 | --- | --- | --- |
 | Ian Rios | [@ianrios](https://github.com/ianrios) | [ianrios.github.io](https://ianrios.github.io/) |
 | Austin Carson | [@AustinC9](https://github.com/AustinC9) | [austinc9.github.io](https://austinc9.github.io/) |
-| Skyler Kuretza | [@skylerkk](https://github.com/skylerkk) | [skylerkk.github.io](https://skylerkk.github.io/) |
+| Skyler Kuretza | [@skylerkk](https://github.com/skylerkk) | [https://blog-ea661.web.app/](https://blog-ea661.web.app/) |
 | Reese Hudson | [@dreesehudson](https://github.com/dreesehudson) | [dreesehudson.github.io](https://dreesehudson.github.io) |
 | Duncan Scruggs | [@duncanscruggs](https://github.com/duncanbscruggs) | [blog-73667.web.app](https://blog-73667.web.app/) |
 | Chandler Ward | [@Cward92](https://github.com/Cward92) | [cward92.github.io](https://cward92.github.io/) |
