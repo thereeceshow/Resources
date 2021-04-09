@@ -38,7 +38,7 @@ CREATE TABLE relationships (
 
     FOREIGN KEY (type_id)
         REFERENCES relationship_types (id)
-        ON DELETE CASCADE,
+        ON DELETE CASCADE
 );
 
 INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (1, 2, 1);
