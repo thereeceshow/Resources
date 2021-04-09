@@ -23,22 +23,12 @@ INSERT INTO relationship_types (type) VALUES ('Enemy');
 
 CREATE TABLE relationships (
     id serial PRIMARY KEY AUTO_INCREMENT,
-    
     hero1_id INTEGER NOT NULL,
-    FOREIGN KEY (hero1_id)
-        REFERENCES heroes (id)
-        ON DELETE CASCADE,
-    
+    FOREIGN KEY (hero1_id) REFERENCES heroes (id) ON DELETE CASCADE,
     hero2_id INTEGER NOT NULL,
-    FOREIGN KEY (hero2_id)
-        REFERENCES heroes (id)
-        ON DELETE CASCADE,
-    
+    FOREIGN KEY (hero2_id) REFERENCES heroes (id) ON DELETE CASCADE,
     type_id INTEGER NOT NULL,
-
-    FOREIGN KEY (type_id)
-        REFERENCES relationship_types (id)
-        ON DELETE CASCADE
+--     FOREIGN KEY (type_id) REFERENCES relationship_types (id) ON DELETE CASCADE
 );
 
 INSERT INTO relationships (hero1_id, hero2_id, type_id) VALUES (1, 2, 1);
